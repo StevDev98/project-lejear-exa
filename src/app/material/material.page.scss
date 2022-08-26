@@ -1,0 +1,23 @@
+table.mat-table {
+    display: table;
+    width: 100%;
+    th {
+        background-color: #045aee;
+        color: white;
+        width: 15%;
+        text-align: center;
+    }
+    td {
+        text-align: center;
+    }
+    ion-toolbar{
+        text-align: center;
+        font-family: Helvetica;
+    }
+    .img {
+        position: relative;
+        padding-top: 5px;
+        height: 40px;
+        width: 40px;
+    }
+}

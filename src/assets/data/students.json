@@ -1,0 +1,179 @@
+[
+    {
+        "name": "ESPAÑA",
+        "pj": "5",
+        "pg": "5",
+        "pe": "0",
+        "pp": "0",
+        "gf": "26",
+        "gc": "7",
+        "masmenos": "19",
+        "pts": "15",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_München_logo_%282017%29.svg/2048px-FC_Bayern_München_logo_%282017%29.svg.png"
+    },
+    {
+        "name": "URUGUAY",
+        "pj": "5",
+        "pg": "5",
+        "pe": "0",
+        "pp": "0",
+        "gf": "16",
+        "gc": "5",
+        "masmenos": "1,1",
+        "pts": "15",
+        "imageUrl": "https://logos-world.net/wp-content/uploads/2020/11/Valencia-Logo-1941-1970.png"
+    },
+    {
+        "name": "A. NAC. MEDELLIN",
+        "pj": "5",
+        "pg": "4",
+        "pe": "0",
+        "pp": "1",
+        "gf": "13",
+        "gc": "7",
+        "masmenos": "6",
+        "pts": "12"
+    },
+    {
+        "name": "FRANCE 2005",
+        "pj": "4",
+        "pg": "3",
+        "pe": "0",
+        "pp": "1",
+        "gf": "19",
+        "gc": "6",
+        "masmenos": "13",
+        "pts": "9"
+    },
+    {
+        "name": "AMERICA 1996",
+        "pj": "5",
+        "pg": "3",
+        "pe": "0",
+        "pp": "2",
+        "gf": "19",
+        "gc": "11",
+        "masmenos": "8",
+        "pts": "9"
+    },
+    {
+        "name": "BOCA JUNIORS 2004",
+        "pj": "4",
+        "pg": "3",
+        "pe": "0",
+        "pp": "1",
+        "gf": "15",
+        "gc": "8",
+        "masmenos": "7",
+        "pts": "9"
+    },
+    {
+        "name": "RACING 2005",
+        "pj": "5",
+        "pg": "3",
+        "pe": "0",
+        "pp": "2",
+        "gf": "23",
+        "gc": "18",
+        "masmenos": "5",
+        "pts": "9"
+    },
+    {
+        "name": "ALEMANIA 1996",
+        "pj": "5",
+        "pg": "2",
+        "pe": "0",
+        "pp": "3",
+        "gf": "20",
+        "gc": "21",
+        "masmenos": "-1",
+        "pts": "6"
+    },
+    {
+        "name": "CERRO CORA 1989",
+        "pj": "5",
+        "pg": "2",
+        "pe": "0",
+        "pp": "3",
+        "gf": "8",
+        "gc": "20",
+        "masmenos": "-12",
+        "pts": "6"
+    },
+    {
+        "name": "MANCHESTER CITY 2000",
+        "pj": "4",
+        "pg": "1",
+        "pe": "1",
+        "pp": "2",
+        "gf": "4",
+        "gc": "6",
+        "masmenos": "-2",
+        "pts": "4"
+    },
+    {
+        "name": "BAYERN MUNCHEN 2001",
+        "pj": "4",
+        "pg": "1",
+        "pe": "1",
+        "pp": "2",
+        "gf": "9",
+        "gc": "13",
+        "masmenos": "-4",
+        "pts": "4"
+    },
+    {
+        "name": "INTER DE MILAN 1999",
+        "pj": "5",
+        "pg": "1",
+        "pe": "0",
+        "pp": "4",
+        "gf": "11",
+        "gc": "19",
+        "masmenos": "-8",
+        "pts": "3"
+    },
+    {
+        "name": "WERDER BREMEN 1991",
+        "pj": "4",
+        "pg": "1",
+        "pe": "0",
+        "pp": "3",
+        "gf": "7",
+        "gc": "17",
+        "masmenos": "-10",
+        "pts": "3"
+    },
+    {
+        "name": "JUVENTUS 1997",
+        "pj": "4",
+        "pg": "0",
+        "pe": "0",
+        "pp": "4",
+        "gf": "6",
+        "gc": "14",
+        "masmenos": "-8",
+        "pts": "0"
+    },    {
+        "name": "ITALIA 1990",
+        "pj": "4",
+        "pg": "0",
+        "pe": "0",
+        "pp": "4",
+        "gf": "6",
+        "gc": "20",
+        "masmenos": "-14",
+        "pts": "0"
+    },
+    {
+        "name": "FLAMENGO 1998",
+        "pj": "4",
+        "pg": "0",
+        "pe": "0",
+        "pp": "4",
+        "gf": "5",
+        "gc": "20",
+        "masmenos": "-15",
+        "pts": "0"
+    }
+]

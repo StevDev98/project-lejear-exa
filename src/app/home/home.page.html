@@ -1,0 +1,42 @@
+<ion-header>
+  <ion-toolbar color="mycolor">
+    <ion-title>
+      EXA CONAGAR DC1
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content mode="ios" class="ion-padding">
+
+  <!-- Default -->
+<ion-button (click)="goToTables()" shape="round" class="text">Tabla de Posiciones local</ion-button>
+<ion-button (click)="materialv2()" shape="round" class="text">Tabla de Posiciones PostgreSql</ion-button>
+  <ion-grid fixed>
+    <ion-row>
+      <ion-col size="12">
+        <ion-card>
+          <img src="/assets/asamblea.jpg"/>
+          <ion-card-header>
+            <ion-card-subtitle>4 de Junio</ion-card-subtitle>
+            <ion-card-title>Asamblea General Ordinaria de Renovación de Autoridades de la ASO CONAGAR</ion-card-title>
+          </ion-card-header>
+          <ion-card-content>
+            En ese día se eligieron a los proximos dirigentes..
+          </ion-card-content>
+        </ion-card>
+
+        <ion-card>
+          <img src="/assets/Aso insignia3.png"/>
+          <ion-card-header>
+            <ion-card-title>Sobre nosotros</ion-card-title>
+          </ion-card-header>
+          <ion-card-content>
+            Fundado en el año 20xx, motivación, objetivos.
+          </ion-card-content>
+        </ion-card>
+        
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+</ion-content>

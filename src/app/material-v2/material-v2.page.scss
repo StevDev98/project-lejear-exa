@@ -1,0 +1,27 @@
+table.mat-table {
+    display: table;
+    width: 100%;
+    font-family: Helvetica;
+    th {
+        background-color: #045aee;
+        color: white;
+        width: 5%;
+        text-align: center;
+    }
+    td {
+        text-align: center;
+    }
+    .img {
+        position: relative;
+        padding-top: 5px;
+    }
+}
+.text {
+    font-family: Helvetica;
+}
+.size {
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: bold;
+}

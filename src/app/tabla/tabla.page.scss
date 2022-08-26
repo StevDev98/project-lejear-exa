@@ -1,0 +1,31 @@
+ion-toolbar{
+    text-align: center;
+    font-family: Helvetica;
+    word-spacing: 3px;
+    background-color: var(--ion-color-mycolor);
+  }
+  ion-content {
+    --background: radial-gradient(#045aee, #000000);
+  }
+  ion-grid {
+    border-style:hidden;
+    ion-col {
+      border: 1px solid rgb(0, 0, 0);
+      border-bottom: 0;
+      border-right: 0;
+      background-color:  #ffffff;
+      font-family: Helvetica;
+      text-align: center;
+      font-size: 8.5px;
+      padding-bottom: 10px;
+    }
+    ion-col {
+      border: 1px solid black;
+      border-bottom: 0;
+      border-right: 0;
+    }
+    ion-col {
+      border-right: 1px solid black;
+      background-color: #2dd36f;
+    }
+  }
