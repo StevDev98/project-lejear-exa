@@ -7,6 +7,7 @@
 </ion-header>
 
 <ion-content class="ion-margin">
+
   <ion-grid class="ion-margin">
     <ion-row>
       <ion-col size="2">EQUIPO</ion-col>
@@ -19,16 +20,16 @@
       <ion-col size="1.2">+/-</ion-col>
       <ion-col size="1.5">PTS</ion-col>
     </ion-row>
-    <ion-row *ngFor="let student of students; index as i">
-      <ion-col size="2">{{ student.name }}</ion-col>
-      <ion-col size="1.1">{{ student.pj }}</ion-col>
-      <ion-col size="1.2">{{ student.pg }}</ion-col>
-      <ion-col size="1.2">{{ student.pe }}</ion-col>
-      <ion-col size="1.2">{{ student.pp }}</ion-col>
-      <ion-col size="1.2">{{ student.gf }}</ion-col>
-      <ion-col size="1.3">{{ student.gc }}</ion-col>
-      <ion-col size="1.2">{{ student.masmenos }}</ion-col>
-      <ion-col size="1.5">{{ student.pts }}</ion-col>
+    <ion-row *ngFor="let task of tasks; index as i">
+      <ion-col size="2">{{ task.name }}</ion-col>
+      <ion-col size="1.1">{{ task.pj }}</ion-col>
+      <ion-col size="1.2">{{ task.pg }}</ion-col>
+      <ion-col size="1.2">{{ task.pe }}</ion-col>
+      <ion-col size="1.2">{{ task.pp }}</ion-col>
+      <ion-col size="1.2">{{ task.gf }}</ion-col>
+      <ion-col size="1.3">{{ task.gc }}</ion-col>
+      <ion-col size="1.2">{{ task.masmenos }}</ion-col>
+      <ion-col size="1.5">{{ task.pts }}</ion-col>
     </ion-row>
   </ion-grid>
 </ion-content>

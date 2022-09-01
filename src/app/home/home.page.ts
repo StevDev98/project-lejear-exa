@@ -18,4 +18,9 @@ export class HomePage {
   materialv2(){
     this.router.navigate(['/material-v2'])
     }
+
+  tablaNorm(){
+      this.router.navigate(['/tabla'])
+      }
+
 }

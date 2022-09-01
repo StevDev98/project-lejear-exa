@@ -13,12 +13,12 @@ export class TaskService {
   ) { }
 
   getAllTasks() {
-    const path = `${this.api}/users/`;
+    const path = `${this.api}/arbitros/`;
     return this.http.get<Task[]>(path);
   }
 
   getTask(id: string) {
-    const path = `${this.api}/users/${id}`;
+    const path = `${this.api}/arbitros/${id}`;
     return this.http.get<Task>(path);
   }
 
