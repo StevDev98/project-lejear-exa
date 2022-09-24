@@ -23,4 +23,8 @@ export class HomePage {
       this.router.navigate(['/tabla'])
       }
 
+      tabSencilla(){
+        this.router.navigate(['/tab-sencilla'])
+        }
+
 }

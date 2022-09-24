@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-toolbar mode="ios">
+    <ion-title>Tabla Nueva</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <ion-tabs>
+    <!-- Tab bar -->
+    <ion-tab-bar slot="bottom">
+      <ion-tab-button tab="account">
+        <ion-label>Partidos</ion-label>
+      </ion-tab-button>
+      <ion-tab-button tab="contact">
+        <ion-label>Partidos</ion-label>
+      </ion-tab-button>
+      <ion-tab-button tab="settings">
+        <ion-label>Partidos</ion-label>
+      </ion-tab-button>
+    </ion-tab-bar>
+  </ion-tabs>
+
+  <ion-segment (ionChange)="segmentChanged($event)">
+    <ion-segment-button value="goleadores">
+      <ion-label>Goleadores</ion-label>
+    </ion-segment-button>
+    <ion-segment-button value="encajados">
+      <ion-label>Encajados</ion-label>
+    </ion-segment-button>
+    <ion-segment-button value="amarillas">
+      <ion-label>Amarillas</ion-label>
+    </ion-segment-button>
+    <ion-segment-button value="rojas">
+      <ion-label>Rojas</ion-label>
+    </ion-segment-button>
+  </ion-segment>
+
+</ion-content>

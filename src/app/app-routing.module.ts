@@ -23,6 +23,10 @@ const routes: Routes = [
     path: 'material-v2',
     loadChildren: () => import('./material-v2/material-v2.module').then( m => m.MaterialV2PageModule)
   },
+  {
+    path: 'tab-sencilla',
+    loadChildren: () => import('./tab-sencilla/tab-sencilla.module').then( m => m.TabSencillaPageModule)
+  },
 ];
 
 @NgModule({
